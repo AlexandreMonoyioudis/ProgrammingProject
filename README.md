@@ -16,8 +16,8 @@ This is a tactical wave-based shooter game built to demonstrate advanced program
     *   Demands tighter reaction times, crowd control, and spatial awareness.
 *   **Level 3: The Arena & Boss Finale**
     *   Takes place in a massive open area populated by large groups of hostile units.
-    *   Introduces specialized enemies that force strict target prioritization.
-    *   Concludes with a multi-phase boss fight finale testing all accumulated skills.
+    *   Introduces a specialized encounter that forces target prioritization.
+    *   Concludes with a boss fight finale testing all accumulated skills.
 
 ## Project Details
 
